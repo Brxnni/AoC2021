@@ -15,6 +15,7 @@ For commit messages, I picked some emojis for each action:
 
 * Add files: 🍱
 * Update files: ✏️
+* Remove files: 🔥
 
 ## File Size (in B)
 
