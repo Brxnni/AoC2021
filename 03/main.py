@@ -69,5 +69,3 @@ def part2(file: str) -> int:
  
 	# Multiply for final int
 	return oxygenRating * co2Rating
-
-print(part2(read()))
