@@ -39,5 +39,3 @@ def part2(file: str) -> int:
 	
 	# Multiply for final int
 	return horizontal * depth
-
-print(part2(read()))
