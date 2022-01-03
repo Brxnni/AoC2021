@@ -1,13 +1,22 @@
 # AoC2021
 
+## Structure
+
+Every folder corresponds to one day. It contains:
+
+* `main.py`, the python file which solves the problem
+* `sample.txt`, the sample file used for testing
+* `input.txt`, the full puzzle input
+* `puzzle.md`, a Markdown with the problem described. (Copied from the AoC website)
+
 ## Emojis
 
-For different actions, I just picked random emojis:
+For commit messages, I picked some emojis for each action:
 
-- Add files: 🍱
-- Update files: ✏️
+* Add files: 🍱
+* Update files: ✏️
 
-## File Size
+## File Size (in B)
 
 |Day xx|Input|Solution|
 |------|-----|--------|

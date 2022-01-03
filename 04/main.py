@@ -95,6 +95,3 @@ def part2(file: str) -> int:
 						return score
 					else:
 						won[boardIndex] = True
-
-print(part2(read()))
-# print(isWinning([False, False, True, True, False, True, False, False, True, True, False, False, True, False, True, False, True, True, True, True, True, True, True, False, False]))
